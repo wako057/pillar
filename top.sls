@@ -1,5 +1,5 @@
 base:
     '*':
-        - data
         - users
+        - groups
         - pkg
